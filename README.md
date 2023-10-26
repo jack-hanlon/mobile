@@ -6,4 +6,4 @@
 
 
 
-- Jack Hanlon, Full Stack Engineer & Thomas Genet, Data Engineer
+- Jack Hanlon, Full Stack Engineer
