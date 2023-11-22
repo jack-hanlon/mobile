@@ -1,9 +1,2 @@
-# space-apps
-## 2023 Space Apps Challenge
-
-
-
-
-
-
-- Jack Hanlon, Full Stack Engineer
+# Social Fitness IOS / Android
+## React Native version of Social Fitness
